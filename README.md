@@ -8,5 +8,5 @@ The dataset that you I have been wrangling (and analyzing and visualizing) is th
 * Cleaning Data
 * Storing and Acting on Wrangled Data
   
- [Click here](https://nbviewer.jupyter.org/github/AngelosGk/Data-Visualization/blob/master/exploration_template%20.ipynb)
-to open the data wrangling project.
+ [Click here](https://nbviewer.jupyter.org/github/AngelosGk/DataWrangling/blob/master/wrangle_act.ipynb)
+to open the Data wrangling project.
